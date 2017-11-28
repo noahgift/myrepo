@@ -6,7 +6,7 @@ install:
 
 test:
 	python -m pytest -vv --cov=myrepolib tests/*.py
-	#PYTHONPATH=. && py.test --nbval-lax notebooks/*.ipynb
+	python -m pytest --nbval notebook.ipynb
 
 
 lint:
