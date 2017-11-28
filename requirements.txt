@@ -4,3 +4,4 @@ jupyter
 pytest-cov
 pandas
 nbval
+click
