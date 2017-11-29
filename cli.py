@@ -8,7 +8,7 @@ from myrepolib.repomod import print_name
 from myrepolib import __version__
 
 @click.version_option(__version__)
-@click.command("printapp")
+@click.command()
 @click.option("--name", help="name to print")
 def pname(name):
     """Prints a name out with apple at the end"""
