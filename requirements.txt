@@ -5,3 +5,4 @@ pytest-cov
 pandas
 nbval
 click
+flask
