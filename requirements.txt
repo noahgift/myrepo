@@ -6,3 +6,4 @@ pandas
 nbval
 click
 flask
+requests
