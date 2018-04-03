@@ -1,5 +1,3 @@
-import nothing
-
 import json
 
 from myrepolib.repomod import fake_data
