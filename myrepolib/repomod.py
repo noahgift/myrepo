@@ -1,7 +1,7 @@
 import requests
 import json
 
-def myfunc(fail):
+def myfunc():
     return 1
 
 def print_name(name):
