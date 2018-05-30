@@ -1,5 +1,4 @@
 # myrepo
-this was changed by my feature branch
 [![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
 
 This is an example repo of a how to create a Python project.
