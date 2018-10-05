@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-badcodw2=
+
 
 """
 Commandline tool for interacting with library
