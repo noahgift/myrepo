@@ -4,7 +4,7 @@
 This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
 
-https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0
+https://www.youtube.com/watch?v=xYX7n5bZw-w
 
 A few things to do with this project:
 
