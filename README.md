@@ -1,7 +1,7 @@
 # myrepo
 [![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
 
-This is an example repo of a how to create a Python project.
+This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
 
 https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0
