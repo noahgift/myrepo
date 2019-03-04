@@ -2,7 +2,7 @@ import requests
 import json
 
 def myfunc():
-    return 1
+    return 2
 
 def print_name(name):
     """Returns a name with apple at the end"""
