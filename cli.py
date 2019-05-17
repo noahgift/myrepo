@@ -10,7 +10,6 @@ import click
 from myrepolib.repomod import print_name
 from myrepolib import __version__
 
-one====1
 
 @click.version_option(__version__)
 @click.command()
