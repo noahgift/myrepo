@@ -1,0 +1,18 @@
+
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Upgrade Pip and install packages"
+      - pip install --upgrade pip
+      - make install
+
+  build:
+    commands:
+      - echo "Run pylint"
+      - make lint
+      - echo "Run test"
+      - make test
+      - echo "Run profiler"
+      - make profile-cli-version

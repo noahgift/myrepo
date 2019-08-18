@@ -2,14 +2,14 @@ setup:
 	python3 -m venv ~/.myrepo
 
 install:
-	pip install -r requirements.txt
+	#Install software
 
 test:
-	python -m pytest -vv --cov=myrepolib tests/*.py
-	python -m pytest --nbval notebook.ipynb
+	# Test ipython notebook
+	# Test python source code
 
 
 lint:
-	pylint --disable=R,C myrepolib cli web
+	# Run lint
 
 all: install lint test
