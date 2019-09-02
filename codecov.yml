@@ -1,0 +1,15 @@
+coverage:
+  status:
+    project:
+      default: off
+      myrepolib:
+        flags: myrepolib
+        
+flags:
+  myrepolib:
+    paths:
+      - myrepolib/
+    assume: true
+  tests:
+    paths:
+      - tests/
