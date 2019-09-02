@@ -56,4 +56,4 @@ jobs:
           destination: test-reports
           
       - codecov/upload:
-          file: coverage/*.json     
+          file: ./coverage.xml  
