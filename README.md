@@ -8,7 +8,7 @@ There is a screencast on this project setup here:
 
 This video does a full breakdown of how to use and create a Makefile:
 
-[![How to use Pylint, Nbval and Coverage to test Jupyter Notebooks](https://img.youtube.com/vi/ABaPWYF_Tl8/0.jpg)]https://www.youtube.com/watch?v=ABaPWYF_Tl8
+[![How to use Pylint, Nbval and Coverage to test Jupyter Notebooks](https://img.youtube.com/vi/ABaPWYF_Tl8/0.jpg)](https://www.youtube.com/watch?v=ABaPWYF_Tl8)
 
 
 A few things to do with this project:
