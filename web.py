@@ -1,5 +1,5 @@
 import json
-
+var=4
 from myrepolib.repomod import fake_data
 from myrepolib import __version__
 
