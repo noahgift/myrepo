@@ -5,7 +5,7 @@
 """
 Commandline tool for interacting with library
 """
-#badcode=
+badcode=
 import click
 
 from myrepolib.repomod import print_name
